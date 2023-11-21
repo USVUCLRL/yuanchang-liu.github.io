@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+I am an Associate Professor and the Programme Director of MSc Power Systems Engineering in the Department of Mechanical Engineering at University College London. Prior to joining the department, I served as a Research Fellow in Robotic Vision and Autonomous Vehicles at the Surrey Space Centre, University of Surrey. I earned my MSc degree in Power Systems Engineering and a PhD degree in Marine Control Engineering, both from University College London in 2011 and 2016, respectively.
+
+My research primarily focuses on automation and autonomy, with a special emphasis on exploring technologies related to sensing, perception, and the guidance and control of intelligent and autonomous vehicles. I am featured among the World's Top 2% Scientists by Stanford University in both 2022 and 2023. Additionally, I received the Denny Medal, awarded by the Institute of Marine Engineering, Science, and Technology (IMarEST). 
+
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
