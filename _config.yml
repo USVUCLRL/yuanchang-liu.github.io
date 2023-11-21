@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Yuanchang Liu"
+title                    : "Yuanchang Liu's Homepage"
 title_separator          : "-"
 name                     : &name "Dr. Yuanchang Liu/Personal Page"
 description              : &description "Associate Professor at University College London"
@@ -83,8 +83,8 @@ author:
   name             : "Dr. Yuanchang Liu"
   avatar           : "profile.png"
   bio              : "Associate Professor at University College London"
-  location         : "Location"
-  employer         :
+  location         : "London, United Kingdom"
+  employer         : "University College London"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=bPXw5w8AAAAJ&hl=zh-CN"
   email            :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0001-9306-297X"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
