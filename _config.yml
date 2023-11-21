@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dr. Yuanchang Liu"
 title_separator          : "-"
-name                     : &name "Dr. Yuanchang Liu"
+name                     : &name "Dr. Yuanchang Liu/Personal Page"
 description              : &description "Associate Professor at University College London"
 url                      : https://yuanchang-liu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
